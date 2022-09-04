@@ -1,0 +1,8 @@
+# if conditions
+
+#variable
+username= "jay"
+if username == "jay";
+	username=username.uppercase()
+else;
+	print "usernot found"
